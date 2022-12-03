@@ -1,0 +1,7 @@
+.vscode
+tech_folder/
+report/
+.idea/
+.DS_Store
+src/.DS_Store
+.devcontainer/
